@@ -1,2 +1,1 @@
-# EWHA_Big-Data-Analysis_-
-EWHA_Big Data Analysis_과제물
+이화여자대학교 일반대학원 빅데이터 분석학 석사과정 시 진행한 프로젝트물 
